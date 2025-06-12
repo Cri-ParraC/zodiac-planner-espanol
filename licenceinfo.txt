@@ -1,0 +1,361 @@
+0,00,00,Sublimación-A,50
+0,01,00,Sublimación-B,75
+0,02,00,Sublimación-C,100
+0,03,00,Sublimación-D,125
+0,04,00,Sublimación-E,150
+0,05,00,Sublimación-F,125
+0,06,00,Sublimación-G,125
+0,07,00,Sublimación-H,125
+0,08,00,Sublimación-I,125
+0,09,00,Sublimación-J,125
+0,0A,00,Sublimación-K,125
+0,0B,00,Sublimación-L,125
+0,0C,00,Sublimación-M,125
+0,0D,00,Sublimación-N,125
+0,0E,00,Sublimación-O,125
+0,0F,00,Sublimación-P,125
+0,10,00,Sublimación-Q,125
+0,11,00,Sublimación-R,125
+1,12,00,Belias,20
+1,13,00,Mateus,30
+1,14,00,Adrammelech,25
+1,15,00,Hashmal,50
+1,16,00,Cúchulainn,50
+1,17,00,Fámfrit,90
+1,18,00,Zalera,25
+1,19,00,Shemhazai,50
+1,1A,00,Caos,90
+1,1B,00,Zeromus,50
+1,1C,00,Exodus,50
+1,1D,00,Artema,90
+1,1E,00,Zodiark,200
+2,1F,00,Comandos,1,Atacar,Objeto
+3,20,00,Espadas 1,15,Espada ancha
+3,21,00,Espadas 2,25,Espada larga,Sable de hierro
+3,22,00,Espadas 3,35,Hoja Zorlin,Espada antigua
+3,23,00,Espadas 4,50,Lohengrin,Hoja ardiente
+3,24,00,Espadas 5,55,Matadiablos,Sable gélido
+3,25,00,Espadas 6,60,Hoja de platino,Espada bastarda
+3,26,00,Espadas 7,70,Hoja de diamante,Hoja rúnica
+3,27,00,Esapdas malditas 1,50,Sable sangriento
+4,28,00,Espadas de caballero 1,50,Claymore
+4,29,00,Espadas de caballero 2,70,Defensora,Viva la reina
+4,2A,00,Espadas de caballero 3,80,Sable Artema
+4,2B,00,Espadas sagradas 1,135,Excálibur
+4,2C,00,Espada sublime,225,Tornasol
+5,2D,00,Katanas 1,35,Kotetsu,Bizen
+5,2E,00,Katanas 2,50,Kogarasu,Magoroku
+5,2F,00,Katanas 3,70,Murasame,Kikuichimonji
+5,30,00,Katanas 4,90,Yakei,Murakumo
+5,31,00,Katanas sublimes 1,130,Masamune
+6,32,00,Sables ninja 1,100,Ashura,Sakura-saezuri,Kagenui,Orochi
+6,33,00,Sables ninja 2,120,Iga Blade
+6,34,00,Yagyu Orochi,180,Yagyu,Orochi [N]
+7,35,00,Lanzas 1,20,Jabalina,Lanza
+7,36,00,Lanzas 2,25,Partesana,Lanza pesada
+7,37,00,Lanzas 3,35,Lanza de rayo,Obelisco
+7,38,00,Lanzas 4,50,Alabarda,Tridente
+7,39,00,Lanzas 5,60,Lanza sagrada,Gungnir
+7,3A,00,Armas dragontinas 1,70,Barba de dragón
+7,3B,00,Lanza sublime,240,Pica de poder
+8,3C,00,Palos 1,20,Palo de roble
+8,3D,00,Palos 2,30,Palo de ciprés,Bambú de batalla
+8,3E,00,Palos 3,35,Palo de almizcle,Barra de hierro
+8,3F,00,Palos 4,40,Hexagonal,Palo de Gokú
+8,40,00,Palos 5,50,Aéreo,Palo de marfil
+8,41,00,Palos sublimes 1,90,Barba de ballena
+9,42,00,Arcos 1,20,Arco corto
+9,43,00,Arcos 2,30,Arco de plata,Cazador
+9,44,00,Arcos 3,35,Arco asesino,Arco largo
+9,45,00,Arcos 4,45,Arco elfo,Arco de Locksley
+9,46,00,Arcos 5,60,Arco de piedra,Arco ardiente
+9,47,00,Arcos 6,70,Arco traidor,Arco de Yoichi
+9,48,00,Arcos sublimes 1,130,Sagitario
+A,49,00,Ballestas 1,25,Ballesta,Ballesta metálica
+A,4A,00,Ballestas 2,40,Ballesta palomina,Ballesta recurva
+A,4B,00,Ballestas 3,60,Ballesta de caza,Penetradora
+A,4C,00,Ballestas 4,115,Ballesta clásica,Ballesta clásica [S]
+B,4D,00,Fusiles 1,30,Altair
+B,4E,00,Fusiles 2,50,Capella,Vega
+B,4F,00,Fusiles 3,60,Sirio,Betelgeuse
+B,50,00,Fusiles 4,70,Ras Alghetthi,Aldebarán
+B,51,00,Fusiles 5,90,Spica,Antares
+B,52,00,Fusiles 6,110,Arcturus,Fomalhaut
+C,53,00,Mazos y hachas 1,20,Hacha
+C,54,00,Mazos y hachas 2,25,Mazo,Hacha larga
+C,55,00,Mazos y hachas 3,35,Martillo de guerra,Degolladora
+C,56,00,Mazos y hachas 4,50,Almádena,Martillera
+C,57,00,Mazos y hachas 5,60,Francisca,Lucero del alba
+C,58,00,Mazos y hachas 6,65,Gran hacha,Hacha de oro
+C,59,00,Mazos y hachas 7,85,Cola de escorpión
+D,5A,00,Dagas 1,15,Daga
+D,5B,00,Dagas 2,20,Matamagos,Daga asesina
+D,5C,00,Dagas 3,35,Sanguijuela,Main gauche
+D,5D,00,Dagas 4,45,Gladius,Vengadora
+D,5E,00,Dagas 5,60,Orichalcum Dirk,Daga de platino
+D,5F,00,Nagasa,220,Nagasa,Nagasa [F]
+E,60,00,Varas 1,20,Vara,Vara serpentina
+E,61,00,Varas 2,30,Vara curativa,Vara de la tierra
+E,62,00,Varas 3,40,Vara de poder,Vara celestial
+E,63,00,Varas 4,50,Vara sagrada
+E,64,00,Vara mística,130,Vara de devoto
+F,65,00,Bastones 1,15,Bastón de roble
+F,66,00,Bastones 2,25,Bastón de cerezo,Bastón de mago
+F,67,00,Bastones 3,30,Bastón de fuego,Bastón de rayo
+F,68,00,Bastones 4,40,Bastón de hielo,Bastón de oro
+F,69,00,Bastón arcano,110,Bastón de sabio
+G,6A,00,Mazas 1,30,Maza,Maza de bronce
+G,6B,00,Mazas 2,40,Bhuj,Maza hídrica
+G,6C,00,Mazas 3,60,Maza de púas,Maza perturbadora
+G,6D,00,Mazas 4,80,Maza nefasta,Maza de Zeus
+G,6E,00,Mazas 5,130,Gran maza,Hueso de Byblos
+H,6F,00,Reglas 1,40,Regla de cálculo
+H,70,00,Reglas 2,50,Regla común,Regla múltiple
+H,71,00,Reglas 3,70,Regla cruzada,Calibre
+I,72,00,Bombas 1,35,Vesubio
+I,73,00,Bombas 2,55,Stromboli,Etna
+I,74,00,Bombas 3,75,Krakatoa,Vulcano
+J,75,00,Escudos 1,15,Escudo de cuero,Broquel
+J,76,00,Escudos 2,20,Escudo de bronce,Rodela
+J,77,00,Escudos 3,25,Escudo de oro,Escudo de hielo,Escudo ardiente
+J,78,00,Escudos 4,30,Escudo de diamante,Escudo de platino,Escudo dragontino
+J,79,00,Escudos 5,35,Escudo de cristal,Pavés del César
+J,7A,00,Escudos 6,40,Égida,Escudo demoníaco
+J,7B,00,Escudo maldito,100,Escudo ensangrentado
+J,7C,00,Escudo antimagos,90,Imperturbable
+J,7D,00,Escudo sublime,235,Non plus ultra
+K,7E,00,Protección pesada 1,25,Casco de cuero,Casco de bronce,Coraza de cuero,Coraza de bronce
+K,7F,00,Protección pesada 2,30,Sallet,Casco de hierro,Loriga de escamas,Armadura de hierro
+K,80,00,Protección pesada 3,35,Barbuta,Casco alado,Coraza de lino,Cota de malla
+K,81,00,Protección pesada 4,40,Casco de oro,Burgonet,Armadura de oro,Armadura blindada
+K,82,00,Protección pesada 5,50,Casco de tela,Casco de hueso,Armadura demoníaca,Armadura de hueso
+K,83,00,Protección pesada 6,55,Casco de diamante,Armadura de diamante
+K,84,00,Protección pesada 7,60,Morrión de acero,Armadura pulida
+K,85,00,Protección pesada 8,65,Casco de platino,Armadura de platino
+K,86,00,Protección pesada 9,70,Yelmo de gigante,Carabinera
+K,87,00,Protección pesada 10,80,Casco dragontino,Malla dragontina
+K,88,00,Equipo de Genji,190,Escudo de Genji,Casco de Genji,Armadura de Genji,Guantes de Genji
+L,89,00,Protección ligera 1,10,Gorro de cuero,Chaqueta de cuero
+L,8A,00,Protección ligera 2,15,Casquete,Cubrecabeza,Cuero cromo,Peto de cuero
+L,8B,00,Protección ligera 3,20,Toca de cuero,Taurino,Peto de bronce,Peto de malla
+L,8C,00,Protección ligera 4,25,Balaclava,Quepís,Poncho,Abrigo pesado
+L,8D,00,Protección ligera 5,30,Boina verde,Gorra roja,Chaleco safari,Brigantina
+L,8E,00,Protección ligera 6,40,Pañuelo anudado,Sombrero pirata,Traje de jujutsu,Abrigo vikingo
+L,8F,00,Protección ligera 7,50,Gafas protectoras,Adamantino,Chaleco de metal,Chaleco adamantino
+L,90,00,Protección ligera 8,60,Chacó,Toca chakra,Abrigo de piel,Cinto de fuerza
+L,91,00,Protección ligera 9,70,Boina de ladrón,Gorra de ogro,Traje de ninja,Peto de ogro
+L,92,00,Protección ligera 10,75,Capucha,Bustier de Minerva
+L,93,00,Protección ligera 11,80,Corona de laureles,Traje de goma
+L,94,00,Protección ligera 12,90,Revitalizador,Chaleco "mirage"
+M,95,00,Protección mágica 1,10,Gorra de algodón,Capucha mágica,Camisa de algodón,Camisa tejida
+M,96,00,Protección mágica 2,15,Bonete,Fez,Camisa de seda,Camisa kilim
+M,97,00,Protección mágica 3,20,Calot,Sombrero puntiagudo,Bolero de pastor,Túnica de mago
+M,98,00,Protección mágica 4,25,Sombrero refulgente,Sombrero emplumado,Chilaba de bardo,Traje de viajero
+M,99,00,Protección mágica 5,30,Sombrero de bruja,Tiara de Lamia,Capa de mago,Vestido de bruja
+M,9A,00,Protección mágica 6,40,Gorro de mago,Capucha negra,Traje de hechicero,Traje negro
+M,9B,00,Protección mágica 7,50,Astrakán,Gorra de la tierra,Carmagnole,Traje de Madine
+M,9C,00,Protección mágica 8,60,Hipnocorona,Coletero de oro,Abrigo de jaspe,Traje de la tierra
+M,9D,00,Protección mágica 9,70,Mitra,Túnica clerical
+M,9E,00,Protección mágica 10,75,Máscara negra,Veste negra
+M,9F,00,Protección mágica 11,80,Máscara blanca,Veste blanca
+M,A0,00,Protección mágica 12,90,Máscara de oro,Alba de luz
+N,A1,00,Accesorios 1,5,Ajorca de Oluaquea
+N,A2,00,Accesorios 2,20,Luciérnaga,Brazalete
+N,A3,00,Accesorios 3,25,Brazal de diamantes,Brazal de Argyle
+N,A4,00,Accesorios 4,35,Arnés de batalla,Gorjal de acero
+N,A5,00,Accesorios 5,35,Mantón bordado,Anillo de turmalina
+N,A6,00,Accesorios 6,35,Amuleto de oro,Gorjal de cuero
+N,A7,00,Accesorios 7,40,Gargantilla,Ramillete de rosas
+N,A8,00,Accesorios 8,45,Puños de ladrón,Guanteletes
+N,A9,00,Accesorios 9,30,Pulsera de ámbar,Cinturón negro
+N,AA,00,Accesorios 10,40,Collar de jade,Cinto tejido
+N,AB,00,Accesorios 11,45,Netsuke de faisán,Manoplas
+N,AC,00,Accesorios 12,60,Botas “gillie”,Rodilleras de metal
+N,AD,00,Accesorios 13,60,Berserker,Guantes mágicos
+N,AE,00,Accesorios 14,70,Anillo de sabio,Anillo de ágata
+N,AF,00,Accesorios 15,70,Anillo de rubí,Galón anudado
+N,B0,00,Accesorios 16,70,Cinto de camafeo,Orejas de gato
+N,B1,00,Accesorios 17,80,Cinturón Duplo,Mitra blanda
+N,B2,00,Accesorios 18,80,Faja,Brazal de poder
+N,B3,00,Accesorios 19,100,Colgante índigo,Botas emplumadas
+N,B4,00,Accesorios 20,115,Anillo de ópalo,Sandalias de Hermes
+N,B5,00,Amplia protección,215,Cinta
+O,B6,00,Magia blanca 1,15,Cura,Luz
+O,B7,00,Magia blanca 2,20,Vocal,Pura
+O,B8,00,Magia blanca 3,25,Coraza,Escudo
+O,B9,00,Magia blanca 4,30,Omnicura,Lázaro 
+O,BA,00,Magia blanca 5,40,Antimagia,Relax
+O,BB,00,Magia blanca 6,50,Cura+,Revitalia
+O,BC,00,Magia blanca 7,60,Asepsis,Esna
+O,BD,00,Magia blanca 8,70,Confu,Fe
+P,BE,00,Magia negra 1,15,Piro,Electro
+P,BF,00,Magia negra 2,20,Hielo,Tiniebla
+P,C0,00,Magia negra 3,25,Aqua,Mutis
+P,C1,00,Magia negra 4,30,Aero,Morfeo
+P,C2,00,Magia negra 5,40,Piro+,Toxis
+P,C3,00,Magia negra 6,50,Electro+,Hielo+
+P,C4,00,Magia negra 7,60,Bio,Tiniebla+
+P,C5,00,Magia negra 8,70,Aero++,Mutis+
+Q,C6,00,Magia espaciotemporal 1,20,Freno,Inmóvil
+Q,C7,00,Magia espaciotemporal 2,30,Espejo,Inútil
+Q,C8,00,Magia espaciotemporal 3,40,Tenue,Resta
+Q,C9,00,Magia espaciotemporal 4,50,Gravedad,Prisa
+Q,CA,00,Magia espaciotemporal 5,60,Paro,Antisalud
+Q,CB,00,Magia espaciotemporal 6,70,Petra,Cuenta
+Q,CC,00,Magia espaciotemporal 7,80,Lévita+,Berserk
+R,CD,00,Magia verde 1,40,Carisma,Óleo
+R,CE,00,Magia verde 2,50,Drenaje,Revés
+R,CF,00,Magia verde 3,90,Duplo,Aspir
+O,D0,00,Magia blanca 10,90,Antimagia+,Lázaro+
+O,D1,00,Magia blanca 11,100,Sanctus,Esna+
+O,D2,00,Magia blanca 12,110,Coraza+,Escudo+
+O,D3,00,Magia blanca 13,155,Ultracura
+S,D4,00,Magia esotérica 1,40,Sombra,Sombra+
+S,D5,00,Magia esotérica 2,50,Muerte,Sombra++
+S,D6,00,Magia esotérica 3,110,Ardor
+P,D7,00,Magia negra 11,100,Omnitoxis,Shock
+P,D8,00,Magia negra 12,120,Morbis,Fulgor
+P,D9,00,Magia negra 13,165,Colapso
+Q,DA,00,Magia espaciotemporal 9,100,Espejo+,Freno+
+T,DB,00,Premio por magia,30,Recupera PM al infligir daño mágico.
+T,DC,00,Indemnización,30,Recupera PM al sufrir daño.
+T,DD,00,Premio por daño,30,Recupera PM al infligir daño.
+T,DE,00,Premio por triunfo,30,Recupera PM cada vez que derrota a un enemigo.
+T,DF,00,Contundente en Agonía,65,Sus ataques físicos causan más daño en el estado Agonía.
+T,E0,00,Fulminante en Agonía,65,Sus hechizos ganan efectividad en el estado Agonía.
+T,E1,00,Tono muscular,70,Sus ataques físicos causan más daño cuando tiene la VIT al máximo.
+T,E2,00,Paz espiritual,70,Sus hechizos ganan efectividad cuando tiene la VIT al máximo.
+T,E3,00,Resistente en Agonía,70,Los ataques físicos le causan menos daño en el estado Agonía.
+T,E4,00,Prolongación,30,Los estados beneficiosos tardan más en desvanecerse.
+T,E5,00,Brazo partido,90,Sus ataques físicos causan más daño cuando tiene ambas manos vacías.
+T,E6,00,Arte de escudero,25,Aumenta la capacidad de bloqueo del escudo en uso.
+T,E7,00,Arte de escudero,45,Aumenta la capacidad de bloqueo del escudo en uso.
+T,E8,00,Arte de escudero,75,Aumenta la capacidad de bloqueo del escudo en uso.
+T,E9,00,Magia económica,30,Reduce en un 10% el consumo de PM al lanzar hechizos.
+T,EA,00,Magia económica,50,Reduce en un 10% el consumo de PM al lanzar hechizos.
+T,EB,00,Magia económica,80,Reduce en un 10% el consumo de PM al lanzar hechizos.
+T,EC,00,Acción rápida,30,Reduce en un 10% el tiempo requerido para entrar en acción.
+T,ED,00,Acción rápida,50,Reduce en un 10% el tiempo requerido para entrar en acción.
+T,EE,00,Acción rápida,80,Reduce en un 10% el tiempo requerido para entrar en acción.
+T,EF,00,Conocimiento de Panacea 1,20,Su efecto se extiende a: Sueño, Merma, Inmóvil e Inútil.
+T,F0,00,Conocimiento de Panacea 2,30,Su efecto se extiende a: →Piedra, Confusión y Óleo.
+T,F1,00,Conocimiento de Panacea 3,70,Su efecto se extiende a: Paro, Condena y Virus.
+T,F2,00,Conocimiento de pociones 1,20,Las pociones devuelven más VIT.
+T,F3,00,Conocimiento de pociones 2,35,Las pociones devuelven más VIT.
+T,F4,00,Conocimiento de pociones 3,70,Las pociones devuelven más VIT.
+T,F5,00,Conocimiento de Éteres 1,20,Los éteres devuelven más PM.
+T,F6,00,Conocimiento de Éteres 2,35,Los éteres devuelven más PM.
+T,F7,00,Conocimiento de Éteres 3,70,Los éteres devuelven más PM.
+T,F8,00,Cola de fénix +,30,La Cola de fénix devuelve más VIT.
+T,F9,00,Cola de fénix +,50,La Cola de fénix devuelve más VIT.
+T,FA,00,Cola de fénix +,90,La Cola de fénix devuelve más VIT.
+T,FB,00,Fuerza +,30,Aumenta la potencia de los ataques físicos.
+T,FC,00,Fuerza +,30,Aumenta la potencia de los ataques físicos.
+T,FD,00,Fuerza +,30,Aumenta la potencia de los ataques físicos.
+T,FE,00,Fuerza +,30,Aumenta la potencia de los ataques físicos.
+T,FF,00,Fuerza +,50,Aumenta la potencia de los ataques físicos.
+T,00,01,Poder mágico +,30,Aumenta el efecto de los hechizos.
+T,01,01,Poder mágico +,30,Aumenta el efecto de los hechizos.
+T,02,01,Poder mágico +,30,Aumenta el efecto de los hechizos.
+T,03,01,Poder mágico +,30,Aumenta el efecto de los hechizos.
+T,04,01,Poder mágico +,50,Aumenta el efecto de los hechizos.
+T,05,01,VIT +30,20,Gana 30 puntos de VIT máxima.
+T,06,01,VIT +70,30,Gana 70 puntos de VIT máxima.
+T,07,01,VIT +110,40,Gana 110 puntos de VIT máxima.
+T,08,01,VIT +150,50,Gana 150 puntos de VIT máxima.
+T,09,01,VIT +190,60,Gana 190 puntos de VIT máxima.
+U,0A,01,Gambit +,15,Obtiene un módulo gambit adicional.
+U,0B,01,Gambit +,20,Obtiene un módulo gambit adicional.
+U,0C,01,Gambit +,25,Obtiene un módulo gambit adicional.
+U,0D,01,Gambit +,30,Obtiene un módulo gambit adicional.
+U,0E,01,Gambit +,35,Obtiene un módulo gambit adicional.
+U,0F,01,Gambit +,40,Obtiene un módulo gambit adicional.
+U,10,01,Gambit +,45,Obtiene un módulo gambit adicional.
+U,11,01,Gambit +,50,Obtiene un módulo gambit adicional.
+U,12,01,Gambit +,70,Obtiene un módulo gambit adicional.
+U,13,01,Gambit +,100,Obtiene un módulo gambit adicional.
+V,14,01,Robar,20
+V,15,01,Libra,25
+V,16,01,Primeros auxilios,20
+V,17,01,Caza furtiva,30
+V,18,01,Recarga,30
+V,19,01,Tiempo letal,50
+V,1A,01,Sacrificio,35
+V,1B,01,Caminante,50
+V,1C,01,Ábaco,40
+V,1D,01,Rompespíritu,50
+V,1E,01,Aquiles,40
+V,1F,01,Lanzamonedas,30
+V,20,01,Persuasión,30
+V,21,01,Bastón blanco,40
+V,22,01,PM→VIT,30
+V,23,01,Rompemagia,50
+V,24,01,Estoicismo,30
+V,25,01,Hechizo al azar,70
+V,26,01,Contagio,40
+V,27,01,Rompedefensa,50
+V,28,01,Resurrección,40
+V,29,01,Mil espinas,35
+V,2A,01,Rompebrazo,50
+V,2B,01,Largo alcance,80
+T,2C,01,VIT +230,70,Gana 230 puntos de VIT máxima.
+T,2D,01,VIT +270,80,Gana 270 puntos de VIT máxima.
+T,2E,01,VIT +310,90,Gana 310 puntos de VIT máxima.
+T,2F,01,VIT +350,100,Gana 350 puntos de VIT máxima.
+T,30,01,VIT +390,115,Gana 390 puntos de VIT máxima.
+T,31,01,VIT +435,130,Gana 435 puntos de VIT máxima.
+T,32,01,VIT +500,220,Gana 500 puntos de VIT máxima.
+T,33,01,Fuerza +,50,Aumenta la potencia de los ataques físicos.
+T,34,01,Fuerza +,50,Aumenta la potencia de los ataques físicos.
+T,35,01,Fuerza +,50,Aumenta la potencia de los ataques físicos.
+T,36,01,Fuerza +,70,Aumenta la potencia de los ataques físicos.
+T,37,01,Fuerza +,70,Aumenta la potencia de los ataques físicos.
+T,38,01,Fuerza +,70,Aumenta la potencia de los ataques físicos.
+T,39,01,Fuerza +,70,Aumenta la potencia de los ataques físicos.
+T,3A,01,Fuerza +,100,Aumenta la potencia de los ataques físicos.
+T,3B,01,Fuerza +,100,Aumenta la potencia de los ataques físicos.
+T,3C,01,Fuerza +,100,Aumenta la potencia de los ataques físicos.
+T,3D,01,Fuerza +,100,Aumenta la potencia de los ataques físicos.
+T,3E,01,Poder mágico +,50,30,Aumenta el efecto de los hechizos.
+T,3F,01,Poder mágico +,50,30,Aumenta el efecto de los hechizos.
+T,40,01,Poder mágico +,50,30,Aumenta el efecto de los hechizos.
+T,41,01,Poder mágico +,70,30,Aumenta el efecto de los hechizos.
+T,42,01,Poder mágico +,70,30,Aumenta el efecto de los hechizos.
+T,43,01,Poder mágico +,70,30,Aumenta el efecto de los hechizos.
+T,44,01,Poder mágico +,70,30,Aumenta el efecto de los hechizos.
+T,45,01,Poder mágico +,100,30,Aumenta el efecto de los hechizos.
+T,46,01,Poder mágico +,100,30,Aumenta el efecto de los hechizos.
+T,47,01,Poder mágico +,100,30,Aumenta el efecto de los hechizos.
+T,48,01,Poder mágico +,100,30,Aumenta el efecto de los hechizos.
+3,49,01,Espadas 8,80,Quitapenas,Sable pétreo
+3,4A,01,Espadas 9,90,Durandal,Durandal [A]
+3,4B,01,Espadas malditas 2,80,Sable sangriento [A]
+4,4C,01,Espadas de caballero 4,100,Ragnarok
+4,4D,01,Espadas sagradas 2,150,Excálipuf
+5,4E,01,Katanas 5,100,Muramasa
+5,4F,01,Katanas sublimes 2,200,Masamune [I]
+6,50,01,Sables ninja 3,120,Koga ninja
+3,51,01,Armas dragontinas 2,100,Barba de dragón [L]
+8,52,01,Palos 6,60,Palo ornado,Octogonal
+8,53,01,Palos sublimes 2,180,Barba de ballena [N]
+9,54,01,Arcos 7,90,Arco de Perseo,Arco de Artemisa
+9,55,01,Arcos sublimes 2,200,Sagitario [A]
+B,56,01,Fusiles 7,190,Aldebarán [Y]
+C,57,01,Mazos y hachas 8,175,Aguijón [F]
+D,58,01,Dagas 6,80,Daga Zorlin
+F,59,01,Bastones 5,65,Bastón justiciero,Bastón de nubes
+H,5A,01,Reglas 4,100,Regla euclidiana
+I,5B,01,Bombas 4,105,Vulcano [T]
+J,5C,01,Escudos 7,65,Veneciano
+K,5D,01,Protección pesada 11,90,Zischagge mágico,Maximilian
+K,5E,01,Protección pesada 12,110,Gran casco,Gran armadura
+L,5F,01,Protección ligera 13,110,Máscara duelista,Traje de héroe
+M,60,01,Protección mágica 13,110,Diadema,Atuendo real
+N,61,01,Accesorios 21,130,Botas de Qüismoit,Niho Palaoa
+M,62,01,Accesorios 22,160,Botas de titán,Anillo protector
+O,63,01,Magia blanca 9,80,Bravery,Curaja
+P,64,01,Magia negra 9,90,Piro++,Electro++
+Q,65,01,Magia espaciotemporal 8,90,Tenue+,Resta
+P,66,01,Magia negra 10,90,Hielo++,Morfeo+
+Q,67,01,Magia espaciotemporal 10,125,Gravedad+,Prisa+
+W,68,01,Tablero extra,30
